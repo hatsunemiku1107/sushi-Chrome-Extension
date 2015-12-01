@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "I want to eat sushi.",
+  "version": "0.0.0.1",
+  "description": "I want to eat sushi.I think you also want to eat sushi.",
+  "browser_action": {
+    "default_icon": {
+    },
+    "default_title": "sushi",
+    "default_popup": "popup.html"
+  },
+    "permissions": [
+          "tabs"
+    ]
+}
